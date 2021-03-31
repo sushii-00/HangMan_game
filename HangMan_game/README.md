@@ -1,5 +1,5 @@
 # Hangman-Python
-A simple hangman game made with python and pygame. This was made as a beginner pygame project in grade 11 (2017).
+A simple hangman game made with python and pygame. 
 
 # Requirements
 - Python 3.x
